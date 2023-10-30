@@ -12,10 +12,10 @@ const json = xml_to_json(xml)
 #### Functions
 
 * **xml_to_json**
-	 takes xml as input and returns a json object with corresponding data.
+	 Takes XML as input and returns JSON object with corresponding data.
 
 * **json_to_xml**
-	 takes json as input and returns a xml with corresponding data.
+	 Takes JSON as input and returns XML with corresponding data.
 
 
 #### Other information
