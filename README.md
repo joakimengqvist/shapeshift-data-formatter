@@ -4,10 +4,10 @@ A collection of data formatter functions.
 #### To run and install this package
 `$ npm install shapeshift-data-formatter`
 ```
-	import { json_to_xml, xml_to_json } from 'shapeshift-data-formatter'
+import { json_to_xml, xml_to_json } from 'shapeshift-data-formatter'
 
-    const xml = json_to_xml(json);
-    const json = xml_to_json(xml)
+const xml = json_to_xml(json);
+const json = xml_to_json(xml)
 ```
 #### Functions
 
